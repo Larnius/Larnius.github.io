@@ -10,4 +10,4 @@ author: larnius
 slug: home-assistant-frigate-homekit-secure-video
 ---
 
-<iframe src="https://mastodontech.de/@larnius/111155313206743907/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodontech.de/embed.js" async="async"></script>
+I completely lost track of how many days I spent trying to configure #frigate in #homeassistant to get the results I expected. Playing around with a #coral was really fun, and I learned a lot. However, in the end, I decided to go with the #scrypted plugin and #homekit #securevideo. Since I already have HomeKit and the formerly biggest plan for #icloud, I was shocked by how easy it was to integrate. Also, my wife can use it easily, which is a big plus for me. So now that's ticked off the list.
