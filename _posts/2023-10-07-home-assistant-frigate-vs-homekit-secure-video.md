@@ -3,8 +3,7 @@ title: Home assistant frigate vs Homekit secure video
 description: ""
 date: 2023-09-30T17:27:19.485Z
 preview: ""
-tags:
-    - "#home assistant"
+tags: []
 categories:
     - Home Assistant
 author: larnius
