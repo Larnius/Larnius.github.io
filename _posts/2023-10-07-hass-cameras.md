@@ -4,9 +4,7 @@ description: ""
 date: 2023-09-30T17:27:19.485Z
 preview: ""
 tags:
-    - "#frigate"
-    - "#home assistant"
-    - "#homekit"
+    - homekit
 categories: []
 author: null
 ---
