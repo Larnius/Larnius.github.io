@@ -3,8 +3,7 @@ title: Home Automation
 description: Started something new and loved it
 date: 2023-08-12T19:49:31.339Z
 preview: ""
-tags:
-    - hass
+tags: []
 categories: []
 author: null
 ---
