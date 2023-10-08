@@ -6,6 +6,7 @@ preview: ""
 tags: []
 categories: []
 author: ""
+slug: test
 ---
 
 This is a test
