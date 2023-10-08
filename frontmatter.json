@@ -42,6 +42,21 @@
           "title": "author",
           "name": "author",
           "type": "string"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
+          "title": "icon",
+          "name": "icon",
+          "type": "string"
+        },
+        {
+          "title": "order",
+          "name": "order",
+          "type": "number"
         }
       ]
     }
