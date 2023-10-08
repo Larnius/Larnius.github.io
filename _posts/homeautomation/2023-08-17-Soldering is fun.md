@@ -5,7 +5,7 @@ date: 2023-08-17T19:50:02.987Z
 preview: ""
 tags: []
 categories: []
-author: ""
+author: null
 slug: soldering-fun
 ---
 
