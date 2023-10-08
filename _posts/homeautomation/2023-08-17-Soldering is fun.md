@@ -6,7 +6,6 @@ preview: ""
 tags: []
 categories: []
 author: null
-slug: soldering-fun
 ---
 
 <iframe src="https://mastodontech.de/@larnius/110906684631099085/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodontech.de/embed.js" async="async"></script>
