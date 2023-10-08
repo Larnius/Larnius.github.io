@@ -5,7 +5,7 @@ date: 2023-08-13T18:02:56.024Z
 preview: ""
 tags: []
 categories: []
-author: larnius
+author: ""
 slug: 2023-08-13-learning-lessons-hard-md
 ---
 

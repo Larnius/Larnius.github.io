@@ -5,7 +5,7 @@ date: 2023-08-16T20:34:52.695Z
 preview: ""
 tags: []
 categories: []
-author: larnius
+author: ""
 slug: 2023-08-16-python-md
 ---
 

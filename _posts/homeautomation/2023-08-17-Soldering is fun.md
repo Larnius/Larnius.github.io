@@ -5,7 +5,7 @@ date: 2023-08-17T19:50:02.987Z
 preview: ""
 tags: []
 categories: []
-author: Larnius
+author: ""
 slug: 2023-08-17-soldering-fun
 ---
 
