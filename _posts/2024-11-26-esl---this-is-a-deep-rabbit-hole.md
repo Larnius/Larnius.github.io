@@ -15,5 +15,5 @@ icon: ""
 order: 0
 slug: esl-deep-rabbit-hole
 ---
-I don't know how this happened but I got hand on some electronic shelf labels. 
-OpenEpaperLink is a deep hole to dig in. 
+**I don't know how this happened but I got hand on some electronic shelf labels. 
+OpenEpaperLink is a deep hole to dig in. **
